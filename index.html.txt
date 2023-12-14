@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> 
+    <title>Особистий вебсайт {Зиков Михайло Віталійович}</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Головна</a></li>
+            <li><a href="#about">Про мене</a></li>
+            <li><a href="#practical">Практичні роботи</a></li>
+            <li><a href="#labs">Лабораторні заняття</a></li>
+        </ul>
+    </nav>
+    
+    <header id="home">
+        <h1>Особистий вебсайт {Зиков Михайло Віталійович}</h1>
+    </header>
+    
+    <section id="about">
+        <h2>Про мене</h2>
+        <img src="avatar.jpg" alt="Фото студента">
+        <p>Я Зиков Михайло Народився в місті Енергодар професійно грав в футбол у команді люблю ще грати в настільний теніс.</p>
+    </section>
+    
+    <section id="practical">
+        <h2>Практичні роботи</h2>
+        <ul>
+            <li>
+                <a href="practical1.html">Назва практичної роботи 1</a>
+                <p>Короткий опис завдання 1</p>
+            </li>
+            <li>
+                <a href="practical2.html">Назва практичної роботи 2</a>
+                <p>Короткий опис завдання 2</p>
+            </li>
+            <!-- Додайте інші практичні роботи наступними пунктами списку -->
+        </ul>
+    </section>
+    
+    <section id="labs">
+        <h2>Лабораторні заняття</h2>
+        <ul>
+            <li>
+                <a href="lab1.html">Назва лабораторної роботи 1</a>
+                <p>Короткий опис завдання 1</p>
+            </li>
+            <li>
+                <a href="lab2.html">Назва лабораторної роботи 2</a>
+                <p>Короткий опис завдання 2</p>
+            </li>
+        </ul>
+    </section>
+    
+    <footer>
+    <p>Контактні дані студента: +380995248660</p>
+    <p>Роки навчання: 2022-2026</p>
+    <p><a href="https://github.com/username">GitHub</a></p>
+    <p><a href="https://instagram.com/_.misha_z_?igshid=MzMyNGUyNmU2YQ==">Instagram</a></p>
+</footer>
+</body>
+</html>
