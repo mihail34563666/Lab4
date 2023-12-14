@@ -16,7 +16,6 @@
     </header>
     
     <section class="grid-container">
-        <!-- Grid items (tasks, checkboxes, input fields, etc.) go here -->
         <div class="task">
             <input type="checkbox" id="task1" />
             <label for="task1">Task 1</label>
@@ -27,14 +26,11 @@
             <label for="task2">Task 2</label>
         </div>
 
-        <!-- Add more tasks as needed -->
-
         <div class="input-field">
             <label for="event">Event:</label>
             <input type="text" id="event" placeholder="Enter event...">
         </div>
 
-        <!-- Add more input fields as needed -->
     </section>
 </div>
 
